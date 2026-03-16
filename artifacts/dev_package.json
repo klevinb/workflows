@@ -1,0 +1,93 @@
+{
+	"id": "16ae0c25-1e72-4fb4-be4e-24efb13388e2",
+	"createdAt": "2026-03-16T12:26:04.938Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/klevinb/workflows.git",
+		"branch": "master"
+	},
+	"name": "Klevin_testing",
+	"description": null,
+	"ver": "26.03.16.1332",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "301b0b97-c9c9-4a8d-8ee6-0c5af569011a",
+			"name": "Approved",
+			"description": null
+		},
+		{
+			"id": "136ac2fc-b478-4c05-8ded-4256b5afae11",
+			"name": "decisionmaking",
+			"description": null
+		},
+		{
+			"id": "0ba01074-d5b4-4004-8fbc-a922ea860449",
+			"name": "Rejected",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "eb4723ec-1385-4fde-a9c3-748e559a4271",
+			"name": "conditiontest",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"theme_generator": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"vault": [],
+	"workflow": [
+		{
+			"id": "0509ace8-b1b6-4732-97ad-613268e2cd35",
+			"updatedAt": "2026-03-16T12:28:55.166Z",
+			"changedBy": "admin",
+			"name": "Working Workflows",
+			"description": null
+		}
+	],
+	"workflow_logs": []
+}

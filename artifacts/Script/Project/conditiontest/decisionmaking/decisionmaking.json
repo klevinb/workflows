@@ -1,0 +1,21 @@
+{
+	"id": "136ac2fc-b478-4c05-8ded-4256b5afae11",
+	"createdAt": "2025-10-03T09:41:11.197Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "decisionmaking",
+	"ver": "25.10.03.1141",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "eb4723ec-1385-4fde-a9c3-748e559a4271",
+	"package": "16ae0c25-1e72-4fb4-be4e-24efb13388e2"
+}

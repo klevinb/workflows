@@ -1,0 +1,5 @@
+result = {
+    approvedDecision: 'Accept'
+}
+
+complete();
