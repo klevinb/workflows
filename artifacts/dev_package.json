@@ -82,10 +82,10 @@
 	"vault": [],
 	"workflow": [
 		{
-			"id": "0509ace8-b1b6-4732-97ad-613268e2cd35",
-			"updatedAt": "2026-03-16T12:28:55.166Z",
+			"id": "68165e55-4a49-447a-8522-1a4a3264e306",
+			"updatedAt": "2026-03-16T12:37:45.774Z",
 			"changedBy": "admin",
-			"name": "Working Workflows",
+			"name": "working workflow",
 			"description": null
 		}
 	],
